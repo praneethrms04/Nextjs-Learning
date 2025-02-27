@@ -41,3 +41,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 routing-demo/node_modules/
+multiroot-layouts/node_modules/
