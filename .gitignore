@@ -40,5 +40,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# next.js
+routing-demo/.next/
+routing-demo/out/
 routing-demo/node_modules/
 multiroot-layouts/node_modules/
+# next.js
+multiroot-layouts/.next/
+multiroot-layouts/out/
